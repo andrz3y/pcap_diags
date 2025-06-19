@@ -1,0 +1,5 @@
+pyshark
+tabulate
+rich
+geoip2
+scapy
