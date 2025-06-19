@@ -13,6 +13,8 @@ Python 3.8+ installed
 
 tshark (Wireshark CLI): `sudo apt-get install tshark`
 
+Python venv: `python3 -m venv venv; source venv/bin/activate; `
+
 Python dependencies: `pip install -r requirements.txt`
 
 For up-to-date geo‑location lookups, download latest MaxMind GeoLite2 City database into the geoipdb/ folder (basic one supplied)

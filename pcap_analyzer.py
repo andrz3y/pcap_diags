@@ -13,7 +13,9 @@ FUNCTIONALITY:
 
 
 RUN: 
-- source venv/bin/activate; python3 pcap_analyzer.py
+source venv/bin/activate
+
+python3 pcap_analyzer.py
 - 
 
 
